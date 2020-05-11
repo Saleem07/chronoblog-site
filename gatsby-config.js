@@ -1,33 +1,33 @@
 module.exports = {
   siteMetadata: {
-    siteTitle: 'Chronoblog Starter',
-    siteDescription: 'Starter for Gatsby Theme Chronoblog',
+    siteTitle: 'Saleem Shah',
+    siteDescription: 'This site is for displaying projects , blog posts etc ',
     siteImage: '/banner.png', // main image of the site for metadata
-    siteUrl: 'https://chronoblog.now.sh/',
+    siteUrl: 'https://saleemsh.me',
     pathPrefix: '/',
     siteLanguage: 'en',
     ogLanguage: `en_US`,
-    author: 'Site Author', // for example - 'Ivan Ganev'
-    authorDescription: 'short author description', // short text about the author
-    avatar: '/avatar.jpg',
-    twitterSite: '', // website account on twitter
-    twitterCreator: '', // creator account on twitter
+    author: 'Saleem Shah', 
+    authorDescription: 'Frontend Developer', // short text about the author
+    avatar: '/avatar.png',
+    twitterSite: 'saleemshah_07', // website account on twitter
+    twitterCreator: 'saleemshah_07', // creator account on twitter
     social: [
       {
         icon: `at`,
-        url: `mailto:mymail@mail.com`
+        url: `mailto:saleemshah567@gmail.com`
       },
       {
         icon: `twitter`,
-        url: `https://twitter.com/ganevru`
+        url: `https://twitter.com/saleemshah_07`
       },
       {
         icon: `github`,
-        url: `https://github.com/Chronoblog/gatsby-theme-chronoblog`
+        url: `https://github.com/Saleem07`
       },
       {
-        icon: `node-js`,
-        url: `https://www.npmjs.com/package/gatsby-theme-chronoblog`
+        icon: `linkedin`,
+        url: `https://www.linkedin.com/in/mohammad-saleem-shah-08b82495/`
       }
     ]
   },
@@ -67,7 +67,7 @@ module.exports = {
         background_color: `#fff`,
         theme_color: `#3a5f7d`,
         display: `standalone`,
-        icon: `src/assets/favicon.png`
+        icon: `src/assets/disk.png`
       }
     },
     {
