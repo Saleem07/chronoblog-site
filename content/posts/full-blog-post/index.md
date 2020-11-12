@@ -4,14 +4,12 @@ cover: ./image.jpg
 date: 2019-12-01
 description: An introduction of Markdown.
 tags: ['post']
+hide: true
 ---
-
-
 
 What distinguishes Markdown from many other lightweight markup syntaxes, which are often easier to write, is its readability. As Gruber writes:
 
 > The overriding design goal for Markdown’s formatting syntax is to make it as readable as possible. The idea is that a Markdown-formatted document should be publishable as-is, as plain text, without looking like it’s been marked up with tags or formatting instructions.
-
 
 ## Markdown
 
@@ -70,7 +68,6 @@ _This text will be italic_
 ```md
 [My Github profile](https://github.com/saleem07)
 ```
-
 
 ### Blockquotes
 

@@ -4,6 +4,7 @@ cover: ./team-player.jpg
 date: 2020-06-14
 description: How to be a better team player
 tags: ['post']
+hide: true
 ---
 
 A team player is someone who actively participates in contributing to a team to achieve a goal which is shared by everyone. Team players share responsibility in every situation no matter how tense the situation or what the outcome will be. They listen to their team-mates and respect their ideas and give feedback which will help in the overall success of the team.
