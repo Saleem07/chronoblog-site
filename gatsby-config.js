@@ -7,11 +7,11 @@ module.exports = {
     pathPrefix: '/',
     siteLanguage: 'en',
     ogLanguage: `en_US`,
-    author: 'Saleem Shah', 
+    author: 'Saleem Shah',
     authorDescription: 'Frontend Developer', // short text about the author
     avatar: '/avatar.png',
-    twitterSite: 'saleemshah_07', // website account on twitter
-    twitterCreator: 'saleemshah_07', // creator account on twitter
+    twitterSite: 'saleemshah0', // website account on twitter
+    twitterCreator: 'saleemshah0', // creator account on twitter
     social: [
       {
         icon: `at`,
@@ -19,7 +19,7 @@ module.exports = {
       },
       {
         icon: `twitter`,
-        url: `https://twitter.com/saleemshah_07`
+        url: `https://twitter.com/saleemshah0`
       },
       {
         icon: `github`,
