@@ -1,14 +1,14 @@
 module.exports = {
   siteMetadata: {
     siteTitle: 'Saleem Shah',
-    siteDescription: 'This site is for displaying projects , blog posts etc ',
+    siteDescription: 'Personal blog ',
     siteImage: '/banner.png', // main image of the site for metadata
     siteUrl: 'https://saleemsh.me',
     pathPrefix: '/',
     siteLanguage: 'en',
     ogLanguage: `en_US`,
     author: 'Saleem Shah',
-    authorDescription: 'Frontend Developer', // short text about the author
+    authorDescription: 'A regular IT guy.', // short text about the author
     avatar: '/avatar.png',
     twitterSite: 'saleemshah0', // website account on twitter
     twitterCreator: 'saleemshah0', // creator account on twitter
