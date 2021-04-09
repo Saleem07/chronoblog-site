@@ -10,16 +10,14 @@ module.exports = {
     author: 'Saleem Shah',
     authorDescription: 'A regular IT guy.', // short text about the author
     avatar: '/avatar.png',
-    twitterSite: 'saleemshah0', // website account on twitter
-    twitterCreator: 'saleemshah0', // creator account on twitter
     social: [
       {
         icon: `at`,
         url: `mailto:mohammadsaleem07@outlook.com`
       },
       {
-        icon: `twitter`,
-        url: `https://twitter.com/saleemshah0`
+        icon: `medium`,
+        url: `https://medium.com/@Saleem0`
       },
       {
         icon: `github`,
